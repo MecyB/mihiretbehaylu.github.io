@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mihiret Behaylu | Business & International Relations</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f5f7fa; color: #222; }
+    header { background: #0b3c5d; color: white; padding: 40px 20px; text-align: center; }
+    section { padding: 40px 20px; max-width: 900px; margin: auto; }
+    h2 { color: #0b3c5d; }
+    .services li { margin: 10px 0; }
+    footer { background: #222; color: #aaa; text-align: center; padding: 20px; }
+    a { color: #0b3c5d; text-decoration: none; }
+    .btn { display: inline-block; margin-top: 20px; padding: 10px 20px; background: #0b3c5d; color: white; border-radius: 5px; }
+  </style>
+</head>
+<body><header>
+  <h1>Mihiret Behaylu Tegane</h1>
+  <p>Business Development & International Relations Professional</p>
+</header><section>
+  <h2>About Me</h2>
+  <p>
+    I am a motivated business-focused professional with a background in Computer Science (Ambo University, 2026).
+    My goal is to work with international companies, investors, and organizations operating in Ethiopia and globally.
+    I am passionate about business growth, market expansion, and building strong partnerships between Africa and global markets.
+  </p>
+</section><section>
+  <h2>What I Do</h2>
+  <ul class="services">
+    <li>Business Development & Market Research (Ethiopia & Africa)</li>
+    <li>International Client & Partner Coordination</li>
+    <li>Project & Operations Support</li>
+    <li>Local Representation for Foreign Companies</li>
+    <li>Customer Relations & Business Communication</li>
+  </ul>
+</section><section>
+  <h2>Vision</h2>
+  <p>
+    My long-term vision is to gain international business experience, collaborate with global investors and organizations,
+    and establish my own company that connects African opportunities with global markets.
+  </p>
+</section><section>
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:mihiretbehaylu4@gmail.com">mihiretbehaylu4@gmail.com</a></p>
+  <p>Phone: +251 965 430 910</p>
+  <a class="btn" href="mailto:mihiretbehaylu4@gmail.com">Contact Me</a>
+</section><footer>
+  <p>© 2026 Mihiret Behaylu Tegane | Open to International Opportunities</p>
+</footer></body>
+</html>
